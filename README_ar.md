@@ -241,7 +241,7 @@ rea setup
   "mcpServers": {
     "rea": {
       "command": "npx",
-      "args": ["-y", "rea-agents@4.1.0", "mcp"]
+      "args": ["-y", "rea-agents@4.2.0", "mcp"]
     }
   }
 }
